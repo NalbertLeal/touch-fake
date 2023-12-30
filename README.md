@@ -47,5 +47,3 @@ If you would like to contribute improvements, bug fixes, or new features, feel f
 This project is licensed under the [GNU LESSER GENERAL PUBLIC LICENSE](https://choosealicense.com/licenses/lgpl-3.0/).
 
 ---
-
-**Note:** Make sure to replace "your-username" in the URLs and the text above with your actual GitHub username.

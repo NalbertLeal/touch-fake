@@ -47,5 +47,3 @@ Se você quiser contribuir com melhorias, correções de bugs ou novos recursos,
 Este projeto é licenciado sob a [GNU LESSER GENERAL PUBLIC LICENSE](https://choosealicense.com/licenses/lgpl-3.0/).
 
 ---
-
-**Nota:** Certifique-se de substituir "seu-usuario" nos URLs e no texto acima pelo seu nome de usuário real do GitHub.
