@@ -31,7 +31,7 @@ touch-fake fake_file.txt 1024
 And this will create a file named `fake_file.txt` with a size of 1024 bytes that overwrite the file (if already exist):
 
 ```bash
-touch-fake arquivo_falso.txt 1024 -overwrite
+touch-fake fake_file.txt 1024 -overwrite
 ```
 
 ### Options
